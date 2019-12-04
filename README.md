@@ -14,4 +14,4 @@ Rubric | 5 | 4 | 3 | 2 | 1 | 0
 ------ |---|---|---|---|---|---
 HTML Website | 
 Display Data from API |
-Interactivity (3 items, and must pull more data) | 
+Interactivity (3 items, must pull more data) | 
