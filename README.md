@@ -1,6 +1,6 @@
 # Assignment 1 - Use a REST API
 
-In this assigment, we will be createing a simple webpage/webapp that will display data returned from an open web API.
+In this assignment, we will be creating a simple webpage/web app that will display data returned from an open web API.
 
 ## Steps
 
