@@ -14,6 +14,7 @@ In this assignment, we will be creating a simple webpage/web app that will displ
 * Variables must be strictly typed. (Including function scoped variables.)
 * Must make use of interfaces
 * Must use a build process kicked off by a `npm build` command
+* Must be hosted live
 
 ## Helpful Hints
 - The interactivity can be simple. Things like pagination (a next button), or view more detail, or add favorites work great!
