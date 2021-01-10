@@ -1,16 +1,22 @@
-# Use a REST API
+# TypeScript - Use a REST API
 
-In this assignment, we will be creating a simple webpage/web app that will display data returned from an open web API.
+In this assignment, we will be creating a simple webpage/web app that will display data returned from an open web API using TypeScript.
 
 ## Steps
 
 1. Select an open (no authentication required) API. - A few of my favorites are the [Star Wars API](https://swapi.co/) and the [PokeAPI](https://pokeapi.co/) (More below)
 2. Create a website.
 3. Connect the website to the API and display data from the API.
-4. Add interactivity. (2 items) - Things like click for more information, and search are good ways to allow user interactivity.
+4. Add interactivity. (4 items) - Things like click for more information, and search are good ways to allow user interactivity.
+
+## Requirements
+* Source Code must be in TypeScript.
+* Variables must be strictly typed. (Including function scoped variables.)
+* Must make use of interfaces
+* Must use a build process kicked off by a `npm build` command
 
 ## Helpful Hints
-- The interactivity can be simple. Things like pagination (a next button), or view more detail, work great!
+- The interactivity can be simple. Things like pagination (a next button), or view more detail, or add favorites work great!
 - Keep the HTML website simple, use a html framework and/or template. This is about using javascript to **fetch** (cough.. Cough.. hint..) data.
 
 
